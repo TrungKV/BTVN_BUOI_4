@@ -1,0 +1,16 @@
+.Home{
+background-image: url(https://i.pinimg.com/474x/01/b9/0d/01b90dcef5c3cf1e182c62a41b0db403.jpg)  ;
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+ 
+.container{
+display: flex;
+justify-content: space-between;
+}
+
+.home_about{
+padding-left: 20px;
+padding-top: 150px;
+}

@@ -1,0 +1,47 @@
+.container{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+.header{
+    box-sizing: border-box;
+    
+}
+
+.header_about{
+       height: auto;
+    /* width: 100%;
+    display: inline-block; */
+    text-align: center;
+    
+}
+
+.content{
+    display: flex;
+}
+.content_left{
+    box-sizing: border-box;
+    width: 50%;
+    height: auto;
+    
+   
+}
+.content_right{
+    width: 50%;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.skill_1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
